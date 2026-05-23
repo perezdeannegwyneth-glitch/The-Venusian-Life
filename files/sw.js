@@ -1,4 +1,4 @@
-const CACHE = 'planner-v1';
+const CACHE = 'venus-v3';
 const ASSETS = ['./Personal_Planner.html', './manifest.json'];
 
 self.addEventListener('install', function(e){
